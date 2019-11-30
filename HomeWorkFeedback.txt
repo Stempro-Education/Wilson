@@ -1,0 +1,15 @@
+Very well done!
+
+Q1: Ok
+Q2: challenge
+    a. what is the data type of (a for a in range(1,51))?
+    b. what is the data type of [a for a in range(1,51)] 
+    c. read the following and get the sum 
+	#start
+	import numpy as np
+	np.random.seed(123)
+	lotteries=np.random.randint(101, size=100)
+	#end
+Q3: challenge.
+     a. amazing! can you create a link so that users for the page can send email to ask you questions? 
+
