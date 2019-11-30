@@ -1,5 +1,0 @@
-Why we need version control system:
-We need it so that if we accidentally make an edit, we can restore it. It is also used for if 2 people make conflicting edits, we can sort the conflict and fix the problems.
-
-How version control system works:
-Version control system is a way to track all edits and see who did them. It can be used to restore older versions and undo edits.
