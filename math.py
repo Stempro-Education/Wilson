@@ -1,1 +1,0 @@
-print("sum of numbers from 1 to 50 is: "+str(sum(a for a in range(1,51))))
