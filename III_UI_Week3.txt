@@ -1,0 +1,140 @@
+Prerequire: create React project, visual studio
+
+Npx create-react-app my-app
+
+The structure of React App
+Package.json   concept: Json Data structure, devDependencis, dependencies, scripts
+
+        Npm install -g packageName, npm install —save packageName, npm install —save-dev packageName
+
+
+
+        For example: npm install lint -g
+
+        npm install --save react-redux
+
+        npm install --save-dev redux-saga
+
+
+
+        Index.html
+
+        Src folder: index.js,
+
+        Create folder components, move all components files to this folder like app.js
+
+       
+
+2.jsx
+Const element = <h1>Hello, world</h1>
+
+Const name = ‘James’
+
+Const element = <h1>Hello, world {name}</h1>
+
+This funny tag syntax is neither a string nor HTML.
+
+It is called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
+
+
+
+function formatName(user) {
+
+  return user.firstName + ' ' + user.lastName;
+
+}
+
+
+
+const user = {
+
+  firstName: 'James',
+
+  lastName: 'Cartwright'
+
+};
+
+
+
+const element = (
+
+  <h1>
+
+    Hello, {formatName(user)}!
+
+  </h1>
+
+);
+
+
+3.Component
+
+Class component
+class Welcome extends React.Component {
+
+  render() {
+
+    return <h1>Hello, {this.props.name}</h1>;
+
+  }
+
+}
+
+
+4. Handle event
+
+      <button onClick={this.handleClick}>
+
+        Click me
+
+      </button>
+
+
+5. State and props
+class Toggle extends React.Component {
+
+  constructor(props) {
+
+    super(props);
+
+    this.state = {isToggleOn: true};
+
+
+
+    // This binding is necessary to make `this` work in the callback
+
+    this.handleClick = this.handleClick.bind(this);
+
+  }
+
+
+
+  handleClick() {
+
+    this.setState(state => ({
+
+      isToggleOn: !state.isToggleOn
+
+    }));
+
+  }
+
+
+  render() {
+
+    return (
+
+      <button onClick={this.handleClick}>
+
+        {this.state.isToggleOn ? 'ON' : 'OFF'}
+
+      </button>
+
+    );
+
+  }
+
+}
+
+
+6. Debug

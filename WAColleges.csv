@@ -1,0 +1,242 @@
+InstitutionName,UnitID,ParentID,OPEID,InstitutionType,Address,City,State,HasHistory
+Academy of Cosmetology_ L.L.C.,214670,0,4172900,Institution,1368 Jadwin Avenue,Richland,WA,TRUE
+Academy of Interactive Entertainment,229540,0,4223600,Institution,305 Harrison Street,Seattle,WA,FALSE
+Age of Montessori,241058,0,,Institution,301 Evergreen Drive,Bozeman,MT,TRUE
+Airstreams Renewables_ Inc.,227368,0,,Institution,410 West J Street_ Suite B,Tehachapi,CA,TRUE
+Alpine College,188562,0,4043400,Institution,10020 E. Knox Ave. Suite 500,Spokane Valley,WA,TRUE
+ALPS Language School,198419,0,,Institution,430 Broadway East,Seattle,WA,TRUE
+Altierus Career College,238290,0,2300103,Institution,906 SE Everett Mall Parkway_ 6th Floor,Everett,WA,TRUE
+Altierus Career College,238397,0,2617508,Institution,14555 Potomac Mills Road,Woodbridge,VA,TRUE
+Altura College,246646,0,,Institution,405 SE Bishop Blvd_ Suite 102,Pullman,WA,FALSE
+Andrews University,122135,0,223800,Institution,100 Old US 31 North,Berrien Springs,MI,TRUE
+Antioch University,170596,0,301010,Institution,900 Dayton Street,Yellow Springs,OH,FALSE
+Argosy University,221944,0,2179900,Institution,333 City Boulevard West_ Suite 1810,Orange,CA,TRUE
+Assemblies of God Theological Seminary,125019,0,246302,Institution,1435 N Glenstone Ave,Springfield,MO,FALSE
+Aveda Institute Portland,214643,0,4171400,Institution,325 North West 13th Street,Portland,OR,FALSE
+Bakke Graduate University,163435,0,3110800,Institution,8515 Greenville Ave._ S206,Dallas,TX,TRUE
+Bastyr University,148779,0,2242500,Institution,14500 Juanita Drive NE,Kenmore,WA,FALSE
+Bates Technical College,148797,0,530600,Institution,1101 S Yakima Ave,Tacoma,WA,FALSE
+Beauty Academy,148399,0,2504900,Institution,208 S Wenatchee Ave,Wenatchee,WA,TRUE
+Becker Professional Development Corporation,234809,0,,Institution,3005 Highland Parkway,Downers Grove,IL,FALSE
+Bellevue College,148432,0,376900,Institution,3000 Landerholm Circle SE,Bellevue,WA,TRUE
+Bellingham Beauty School,148441,0,1309400,Institution,4192 Meridian Street,Bellingham,WA,FALSE
+Bellingham Technical College,148450,0,499900,Institution,3028 Lindbergh Ave,Bellingham,WA,FALSE
+Berlitz Language Centers,204574,0,,Institution,7 Roszel Rd.,Princeton,NJ,TRUE
+Big Bend Community College,148469,0,377000,Institution,7662 Chanute Street,Moses Lake,WA,FALSE
+BJ's Beauty and Barber College,148830,0,2541900,Institution,5239 S Tacoma Way,Tacoma,WA,FALSE
+BJ?s Beauty & Barber College,198075,0,4130800,Institution,435 East Main Stret,Auburn,WA,TRUE
+Brandman University,216825,0,4161800,Institution,16355 Laguna Canyon Road,Irvine,CA,FALSE
+Brightwood College - Modesto Campus,154518,0,2306300,Institution,5172 Kiernan Court,Salida,CA,TRUE
+Bryman College,153579,0,2300101,Institution,31919 6TH Avenue South,Federal Way,WA,FALSE
+Cambridge College - WA,182157,0,,Institution,14432 SE Eastgate Way,Bellevue,WA,FALSE
+Carrington College,107114,0,974800,Institution,8909 Folsom Blvd,Sacramento,CA,TRUE
+Carrington College- Portland,152080,0,3042500,Institution,2004 Lloyd Center_ 3rd Floor,Portland,OR,TRUE
+Cascade Business College,240903,0,,Institution,1300 N. State Street,Bellingham,WA,FALSE
+Cascadia Community College,168087,0,3483500,Institution,18345 Campus Way NE,Bothell,WA,FALSE
+Center for Information Warfare Training (CIWT),244598,0,,Institution,640 Roberts Avenue,Pensacola,FL,FALSE
+Center for Naval Aviation Technical Training (CNATT),188784,0,,Institution,230 Chevalier Field Avenue_ Bldg 3460_ Ste C,Pensacola,FL,FALSE
+Center for Security Forces (CENSECFOR),188720,0,,Institution,1575 Gator Boulevard_ Suite 338,Virginia Beach,VA,TRUE
+Center for Surface Combat Systems (CSCS),188854,0,,Institution,5395 First Street,Dahlgren,VA,FALSE
+Central Baptist Theological Seminary,116703,0,190700,Institution,6601 Monticello Road,Shawnee,KS,TRUE
+Central Washington University,148496,0,377100,Institution,400 East University Way,Ellensburg,WA,FALSE
+Centralia Beauty College,242468,0,4274700,Institution,217 South Tower Avenue,Centralia,WA,FALSE
+Centralia College,148502,0,377200,Institution,600 W Locust St,Centralia,WA,FALSE
+Charter College,100821,0,2576900,Institution,2221 E Northern Lights Blvd Ste 120,Anchorage,AK,FALSE
+Chetta's Academy of Hair and Nails,172510,0,3707500,Institution,1222 East Front Street,Port Angeles,WA,TRUE
+City University of Seattle,148511,0,1302200,Institution,521 Wall Street Suite 100,Seattle,WA,TRUE
+Clark College,148539,0,377300,Institution,1800 E McLoughlin Blvd,Vancouver,WA,FALSE
+Clover Park Technical College,148548,0,575200,Institution,4500 Steilacoom Blvd SW,Lakewood,WA,FALSE
+Columbia Basin College,148566,0,377400,Institution,2600 N 20th Ave,Pasco,WA,FALSE
+Columbia College,125198,0,245600,Institution,1001 Rogers Street,Columbia,MO,FALSE
+Columbia Valley Community Health,240189,0,,Site,600 Orondo Avenue_ Suite 1,Wenatchee,WA,FALSE
+corinthian colleges_ inc,202073,0,,Institution,,vancouver,WA,FALSE
+Cornell University,130004,0,271100,Institution,300 Day Hall,Ithaca,NY,FALSE
+Cornish College of the Arts,148575,0,1231500,Institution,1000 Lenora Street,Seattle,WA,FALSE
+Cortiva Institute - Brian Utting School of Massage,171401,0,3631500,Institution,900 Thomas Street_ Suite 200,Seattle,WA,FALSE
+Cortiva Institute - Seattle,162964,0,3099000,Institution,425 Pontius Ave. North_ Suite 100,Seattle,WA,TRUE
+Court Reporting Institute - Seattle,186982,0,,Institution,929 North 130th Street_ Suite 2,Seattle,WA,FALSE
+CRI Career Training,157766,0,3052200,Institution,929 N 130th St Ste 2,Seattle,WA,FALSE
+Crown College,156772,0,2231100,Institution,8739 S Hosmer,Tacoma,WA,FALSE
+Dale Carnegie & Associates_ Inc.,237695,0,,Institution,2240 Bluestone Drive,St. Charles,MO,FALSE
+DeVry University,234483,0,,Institution,1200 East Diehl Road,Naperville,IL,TRUE
+DigiPen Institute of Technology,171508,0,3724300,Institution,9931 Willows Rd. NE,Redmond,WA,TRUE
+Divers Institute of Technology,148584,0,1148100,Institution,1341 N. Northlake Way,Seattle,WA,TRUE
+Dominion College,212726,0,,Institution,21024 24th Avenue South,Seattle,WA,FALSE
+Eastern Washington University,148593,0,377500,Institution,526 5th Street,Cheney,WA,FALSE
+Edmonds Community College,148609,0,500100,Institution,20000 68th Ave W,Lynnwood,WA,FALSE
+EF International Schools of English,199555,0,,Institution,200 Lake Street,Boston,MA,TRUE
+Elite Cosmetology_ Barber & Spa Academy_ LLC,237853,0,4260200,Institution,2606 West Nob Hill Boulevard,Yakima,WA,FALSE
+ELS Language Centers,199661,0,,Institution,7 Roszel Road,Princeton,NJ,TRUE
+Embassy CES,200068,0,,Institution,330 7th Avenue_ 2nd Floor,New York,NY,TRUE
+Embassy CES,200077,0,,Institution,3600 South 344th Way,Federal Way,WA,FALSE
+Evangel University,125347,0,246300,Institution,1111 N Glenstone,Springfield,MO,FALSE
+Everest College - Lynnwood,170611,0,2606201,Institution,19020 33rd Ave W-Ste 250,Lynnwood,WA,TRUE
+Everest College - Portland,138567,0,907900,Institution,600 SW 10th Avenue #400,Portland,OR,TRUE
+Everest College - Renton,148487,0,2606200,Institution,981 Powell Avenue_ SW_ Suite 200,Renton,WA,TRUE
+Everett Community College,148618,0,377600,Institution,2000 Tower Street,Everett,WA,FALSE
+Evergreen Beauty and Barber College,148706,0,1249600,Institution,18336 Aurora Avenue North_ Suite #103,Shoreline,WA,TRUE
+Evergreen Beauty and Barber College,190707,0,3917300,Institution,802 SE Everett Mall Way_ Suite A,Everett,WA,FALSE
+Evergreen Beauty and Barber College - Bellevue,148423,0,2105300,Institution,14045 NE 20th St,Bellevue,WA,TRUE
+Evergreen Beauty and Barber College ? Yakima,244206,0,,Institution,401 North 1st Street,Yakima,WA,FALSE
+Evergreen Beauty College,243416,0,,Institution,401 North 1st Street,Yakima,WA,FALSE
+Evergreen Healthcare,205683,0,,Site,12040 NE 128th St,Kirkland,WA,FALSE
+Faith International University,171146,0,3689400,Institution,3504 North Pearl Street,Tacoma,WA,TRUE
+Fosbre Academy of Hair Design,236595,0,4250400,Institution,111 Capitol Way North,Olympia,WA,FALSE
+Franciscan Health,206570,0,,Site,PO Box 2197_ 1717 S. J Street,Tacoma,WA,TRUE
+Fuller Theological Seminary,104133,0,120000,Institution,135 N Oakland Ave,Pasadena,CA,FALSE
+Garden to Table Nutrition,244464,0,,Institution,4026 224th Street SE #6,Bothwell,WA,FALSE
+Gary Manuel Aveda Institute,207704,0,4149400,Institution,1514 Tenth Avenue,Seattle,WA,FALSE
+Gateway Seminary,104221,0,120400,Institution,3210 East Guasti Road,Ontario,CA,TRUE
+Gather 4 Him Christian College,245069,0,,Institution,3021 W. Clearwater Ave.,Kennewick,WA,FALSE
+Gather 4 Him Christian College,245078,0,,Institution,3021 W. Clearwater Ave.,Kennewick,WA,FALSE
+Gene Juarez Academy North Seattle,148788,0,2203300,Institution,6007-A 244th Street Southwest,Mountlake Terrace,WA,TRUE
+Gene Juarez Academy South Seattle,160153,0,2203301,Institution,2222 So. 314 St,Federal Way,WA,TRUE
+Glen Dow Academy of Hair Design and Salons_ Inc.,148663,0,973900,Institution,W 309 Riverside Ave,Spokane,WA,TRUE
+Goddard College,147110,0,368600,Institution,123 Pitkin Road,Plainfield,VT,FALSE
+GOLDEN GATE BAPTIST THEOLOGICAL SEMINARY-NORTHWEST,163365,0,001204A4,Institution,3200 NE 109TH AVE,VANCOUVER,WA,FALSE
+Golden Gate University,104230,0,120500,Institution,536 Mission Street,San Francisco,CA,TRUE
+Gonzaga University,148672,0,377800,Institution,E 502 Boone Ave,Spokane,WA,FALSE
+Good Samaritan Hospital,228237,0,,Site,407 14th Avenue SE,Puyallup,WA,FALSE
+GP Institute of Cosmetology,208053,0,4149600,Institution,306 23rd South #200,Seattle,WA,TRUE
+Grays Harbor College,148681,0,377900,Institution,1620 Edward P Smith Dr,Aberdeen,WA,FALSE
+Green River Community College,148690,0,378000,Institution,12401 SE 320th St,Auburn,WA,FALSE
+Grifols Academy of Plasmapheresis,240888,0,,Institution,5242 West Camelback Road_ Suite 101,Glendale,AZ,FALSE
+Heat & Frost Insulators & Allied Trades Apprenticeship Training Fund,244853,0,,Institution,3000 NE 4th Street,Renton,WA,FALSE
+Henry Cogswell College,148557,0,2291700,Institution,3002 Colby Avenue,Everett,WA,FALSE
+Heritage University,148715,0,377700,Institution,3240 Fort Rd,Toppenish,WA,FALSE
+Highline College,148724,0,378100,Institution,2400 S 240th St,Des Moines,WA,TRUE
+Inland Massage Institute_ Inc.,203951,0,4132800,Institution,775 E. Holland Avenue_ Suite 110,Spokane,WA,TRUE
+Interface College,148733,0,2326500,Institution,178 S. Stevens,Spokane,WA,TRUE
+INTERLINK International Institute at Seattle Pacific University,243230,0,,Institution,4 Nickerson StreetSuite 200,Seattle,WA,TRUE
+International Air and Hospitality Academy,148742,0,2222900,Institution,2901 E Mill Plain Blvd,Vancouver,WA,FALSE
+International Beauty Education Center,237011,0,4252900,Institution,12832 West Sunset Highway,Airway Heights,WA,FALSE
+International Training Fund,237659,0,,Institution,4800 East Huron River Drive,Ann Arbor,MI,TRUE
+ITT Technical Institute - Spokane Valley,216603,0,3071800,Institution,13518 E Indiana Avenue,Spokane Valley,WA,FALSE
+Jonathan M. Wainwright Memorial VA Medical Center,193751,0,,Site,77 Wainwright Dr. (123),Walla Walla,WA,FALSE
+Kaiser Permanente Seattle Residency in Primary Eye Care,210784,0,,Site,9720 Fourth Ave. NW,Seattle,WA,TRUE
+Kaiser Permanente Washington Residency in Primary Care Optometry,216782,0,,Site,5821 S. Sprague Court,Tacoma,WA,TRUE
+Kaplan College - Seattle Campus,186195,0,2091701,Institution,500 SW 39th Street_ Suite 155,Renton,WA,FALSE
+Kaplan International,204440,0,,Institution,675 Massachusetts Avenue_  Suite 300,Cambridge,MA,TRUE
+Kaplan Test Prep,204592,0,,Institution,750 Third Avenue_ 7th & 8th Floor,New York,NY,TRUE
+Kirkland Beauty School,179317,0,,Institution,17311 140th Avenue N.E.,Woodinville,WA,FALSE
+Lake Washington Institute of Technology,148803,0,537300,Institution,11605 132nd Avenue NE,Kirkland,WA,TRUE
+Le Cordon Bleu College of Culinary Arts - Austin,230746,0,2569300,Institution,3110 Esperanza Crossing_ Suite 100,Austin,TX,TRUE
+Lesley University,121275,0,216000,Institution,29 Everett St,Cambridge,MA,FALSE
+Lower Columbia College,148812,0,378200,Institution,1600 Maple,Longview,WA,FALSE
+Lower Columbia Enterprises_ Inc. DBA Stylemasters College of Hair Design,149091,0,2202200,Institution,1224 Commerce,Longview,WA,TRUE
+Madigan Army Medical Center,197018,0,,Site,9040 Reid Street,Tacoma,WA,FALSE
+Madigan Army Medical Center,228565,0,,Site,9040 Fitzsimmons Drive,Fort Lewis,WA,FALSE
+Madigan Army Medical Center/Ft. Lewis Dental Activity Advanced Education in General Dentistry 12 Months,225292,0,,Site,MCDS-NI-HDC_ Department of the Navy,Tacoma,WA,FALSE
+Mann-Grandstaff VA Medical Center,194000,0,,Site,4815 N. Assembly Street,Spokane,WA,TRUE
+Middle Way Acupuncture Institute,228592,0,,Institution,321 W Washington Street_ Suite 334,Mt. Vernon,WA,FALSE
+Montessori Center for Teacher Education - Washington State,216436,0,,Institution,10723 NE 38th Place,Bellevue,WA,FALSE
+Montessori College for Early Education,178882,0,,Institution,2411 112th Ave. N.E.,Bellevue,WA,FALSE
+Montessori Education Center of the Rockies/Pacific NW,178916,0,,Institution,PMB 114_ 321 Highschool Rd. NE,Bainbridge Island,WA,FALSE
+Montessori Education Institute/Pacific NW,178934,0,4179400,Institution,19102 North Creek Parkway,Bothell,WA,TRUE
+Montessori Institute For Teacher Education Program at Spring Valley,178998,0,,Institution,36605 Pacific Highway South,Federal Way,WA,TRUE
+Montessori Northwest,138266,0,,Institution,622 Southeast Grand Avenue,Portland,OR,TRUE
+Montessori Schools of Washington,165699,0,,Institution,1804 Puget Dr.,Everett,WA,FALSE
+Montessori Teacher Preparation of Spokane,178952,0,,Institution,1904 W. Glass Ave.,Spokane,WA,FALSE
+Montessori Teacher Preparation of Washington,178970,0,,Institution,318 3rd Avenue South,Kent,WA,FALSE
+Moody Bible Institute,113704,0,172700,Institution,820 N LaSalle Blvd,Chicago,IL,TRUE
+Mukogawa Fort Wright Institute,210739,0,,Institution,4000 W. Randolph Road,Spokane,WA,FALSE
+National Psychology Training Consortium,244084,0,,Institution,1806 W. Lincoln Ave.,Yakima,WA,FALSE
+North Seattle Community College,148858,0,970400,Institution,9600 College Way North,Seattle,WA,FALSE
+Northeastern University,121716,0,219900,Institution,360 Huntington Ave_ 110CH,Boston,MA,TRUE
+Northwest Aviation College,148414,0,,Institution,506 23rd Street NE,Auburn,WA,FALSE
+Northwest Baptist Seminary,148867,0,1260100,Institution,4301 N Stevens,Tacoma,WA,FALSE
+Northwest College of Art and Design,156781,0,2602100,Institution,16301 Creative Dr NE,Poulsbo,WA,TRUE
+Northwest Hair Academy_ Mount Vernon,231280,0,2331400,Institution,615 South First Street,Mount Vernon,WA,FALSE
+Northwest HVAC/R Association and Training Center,166133,0,3283300,Institution,204 East Nora Avenue,Spokane,WA,TRUE
+Northwest Indian College,157094,0,2180000,Institution,2522 Kwina Rd,Bellingham,WA,FALSE
+Northwest Institute of Literary Arts,216311,0,4188900,Institution,5611 Bayview Road,Freeland,WA,TRUE
+Northwest Laborers-Employers Training Trust,246530,0,,Institution,27055 Ohio Avenue,Kingston,WA,FALSE
+Northwest Regional Training Center,211158,0,,Institution,11606 NE 66 Street,Vancouver,WA,FALSE
+Northwest School of Wooden Boatbuilding,148876,0,4155000,Institution,42 N. Water Street,Port Hadlock,WA,FALSE
+Northwest University,148885,0,378300,Institution,5520 108th Ave NE,Kirkland,WA,FALSE
+Olympic College,148894,0,378400,Institution,1600 Chester Avenue,Bremerton,WA,FALSE
+Pacific Lutheran University,148919,0,378500,Institution,1010 122nd St So,Tacoma,WA,FALSE
+Pacific Northwest Ballet School,157997,0,,Institution,4649 Sunnyside Avenue N.,Seattle,WA,FALSE
+Pacific Northwest University of Health Sciences,192059,0,4130500,Institution,111 S. 33rd Street Suite 104,Yakima,WA,FALSE
+Park University,126003,0,249800,Institution,8700 NW River Park Dr,Parkville,MO,FALSE
+Paroba College of Cosmetology,148627,0,2184200,Institution,9930 Evergreen Way_ Building Y,Everett,WA,TRUE
+Paul Mitchell The School Richland,148520,0,3065000,Institution,71 Gage Boulevard,Richland,WA,TRUE
+Paul Mitchell the School Spokane,218487,0,4191900,Institution,15303 East Sprague Avenue_ Suite C,Spokane Valley,WA,TRUE
+Peace Health St. Joseph Hospital,231040,0,,Site,2901 Squalicum Pkwy,Bellingham,WA,FALSE
+Peninsula College,148928,0,378600,Institution,1502 E Lauridsen Blvd,Port Angeles,WA,FALSE
+Perry Technical Institute,148900,0,938700,Institution,2011 W Washington Ave.,Yakima,WA,FALSE
+Phagans Orchards Beauty School,148937,0,2345100,Institution,10411 NE 4th Plain Blvd Ste 109,Vancouver,WA,FALSE
+Photographic Center Northwest,179663,0,4168300,Institution,900 Twelfth Avenue,Seattle,WA,FALSE
+Pierce College,168050,0,500003,Institution,1601 39th Ave SE,Puyallup,WA,TRUE
+Pima Medical Institute,101453,0,2217100,Institution,3350 East Grant Road_ Suite 200,Tucson,AZ,TRUE
+Pinchot University,211671,0,4161200,Institution,220 Second Avenue South_ 4th Floor,Seattle,WA,TRUE
+Professional Beauty School,148654,0,2236801,Institution,214 S Sixth St,Sunnyside,WA,FALSE
+Professional Beauty School,160940,0,2236800,Institution,2105 W Lincoln Ave_ Suite B,Yakima,WA,FALSE
+Providence St Peter Hospital,206376,0,,Site,413 Lilly Rd NE,Olympia,WA,FALSE
+Puget Sound Christian College,148946,0,499800,Institution,2610 Wetmore Ave,Everett,WA,FALSE
+Renton Technical College,148964,0,1043400,Institution,3000 NE Fourth Street,Renton,WA,FALSE
+Saint Martin's University,148973,0,379400,Institution,5300 Pacific Ave SE,Lacey,WA,FALSE
+Sakie International College of Cosmetology,191126,0,,Institution,2106 West Nob Hill Boulevard #104,Yakima,WA,FALSE
+Sanford-Brown College,240851,0,3031406,Institution,645 Andover Park West,Seattle,WA,TRUE
+Saybrook University,106494,0,2120600,Institution,475 14th Street_ 9th Floor,Oakland,CA,TRUE
+School of Piano Technology for the Blind,158352,0,3490400,Institution,2510 E Evergreen Blvd,Vancouver,WA,FALSE
+Sea Mar Community Health Center,193007,0,,Site,8915 14th Avenue South,Seattle,WA,FALSE
+Seattle Central Community College,148991,0,378700,Institution,1701 Broadway Avenue,Seattle,WA,FALSE
+Seattle Film Institute,237808,0,4258000,Institution,3210 16th Avenue W.,Seattle,WA,FALSE
+Seattle Institute of East Asian Medicine,168607,0,3280300,Institution,226 S. Orcas Street,Seattle,WA,TRUE
+Seattle Midwifery School,149019,0,3361600,Institution,4000 NE 41st St_ Building D_ Suite 3,Seattle,WA,FALSE
+Seattle Pacific Seminary,238935,0,,Institution,3307 3rd Avenue,West Seattle,WA,TRUE
+Seattle Pacific University,149028,0,378800,Institution,3307 3rd Ave W,Seattle,WA,FALSE
+Seattle University,149037,0,379000,Institution,901 12th Ave,Seattle,WA,TRUE
+Seattle Vocational Institute,157377,0,378703,Institution,2120 S Jackson,Seattle,WA,FALSE
+Shoreline Community College,149046,0,379100,Institution,16101 Greenwood Ave N,Shoreline,WA,FALSE
+Skagit Valley College,149055,0,379200,Institution,2405 E. College Way,Mount Vernon,WA,FALSE
+South Puget Sound Community College,149064,0,537200,Institution,2011 Mottman Rd SW,Olympia,WA,FALSE
+South Seattle College,148982,0,970600,Institution,6000 16th Ave SW,Seattle,WA,TRUE
+Southern Illinois University Carbondale,114318,0,175800,Institution,Anthony Hall 116,Carbondale,IL,FALSE
+Specialty Eyecare Group,248156,0,,Site,1911 4th Avenue,Seattle,WA,FALSE
+Spokane College of English Language,229665,0,,Institution,718 W Riverside Avenue,Spokane,WA,FALSE
+Spokane Community College,149073,0,379300,Institution,1810 North Greene Street,Spokane,WA,FALSE
+Spokane Falls Community College,149082,0,954400,Institution,3410 W Fort Geo Wright Dr,Spokane,WA,FALSE
+Spokane Mental Health,197009,0,,Site,South 107 Division,Spokane,WA,FALSE
+Strayer University,108968,0,145900,Institution,1133 15th St NW,Washington,DC,FALSE
+Studio Beauty School,235459,0,4231000,Institution,10001 East Sprague Avenue,Spokane Valley,WA,TRUE
+Summit Salon Academy,214458,0,4170100,Institution,3702 South Fife Street_ B102,Tacoma,WA,TRUE
+Sunnyside Beauty Academy,188438,0,4120000,Institution,2640 East Edison_ Suite 2,Sunnyside,WA,TRUE
+Swedish Health Services,206677,0,,Site,747 Broadway,Seattle,WA,FALSE
+Tacoma Bible College,229504,0,,Institution,106 South 28th Street,Tacoma,WA,FALSE
+Tacoma Community College,149107,0,379600,Institution,6501 S 19th Street,Tacoma,WA,FALSE
+The Art Institute of Seattle,148405,0,2291300,Institution,2323 Elliott Ave,Seattle,WA,FALSE
+The Beauty Institute Schwarzkopf Professional,238157,0,,Institution,1411 Railroad Avenue,Bellingham,WA,FALSE
+The Evergreen State College,148636,0,815500,Institution,2700 Evergreen Pkwy NW,Olympia,WA,FALSE
+The Seattle School of Theology and Psychology,169567,0,3466400,Institution,2501 Elliott Avenue,Seattle,WA,TRUE
+Tint School of Make-Up & Cosmetology - Dallas,162724,0,3035200,Institution,10909 Webb Chapel RoadSuite 129,Dallas,TX,TRUE
+Toni & Guy Hairdressing Academy - Bellingham,215725,0,3670301,Institution,1411 Railroad Avenue,Bellingham,WA,FALSE
+Total Cosmetology Training Center,191241,0,3932500,Institution,5303 North Market Street,Spokane,WA,FALSE
+Tri-Cities Chaplaincy,206817,0,,Site,2108 W Entiat Ave,Kennewick,WA,FALSE
+Trinity Lutheran College,148821,0,2106700,Institution,2802 Wetmore Avenue,Everett,WA,TRUE
+U. S. Army Medical Department Center and School,190062,0,,Institution,2250 Stanley Road_ Suite 245,San Antonio,TX,FALSE
+U.S. Naval War College_ The,165565,0,,Institution,686 Cushing Road,Newport,RI,TRUE
+University of Phoenix,101435,0,2098800,Institution,4035 South Riverpoint Parkway,Phoenix,AZ,TRUE
+University of Puget Sound,148955,0,379700,Institution,1500 N Warner,Tacoma,WA,FALSE
+University of Washington,149143,0,379800,Institution,P.O. Box 351230,Seattle,WA,FALSE
+VA Puget Sound Health Care System - American Lake Division,196990,0,,Site,9900 Veterans Drive,Tacoma,WA,TRUE
+VA Puget Sound Health Care System - Seattle Division,196644,0,,Site,1660 South Columbian Way,Seattle,WA,FALSE
+Victoria's Academy of Cosmetology,198260,0,4127200,Institution,23 West 1st Avenue,Kennewick,WA,TRUE
+Vincennes University,115667,0,184300,Institution,1002 N First St,Vincennes,IN,FALSE
+Walla Walla and Spokane VAMC,240435,0,,Site,4815 N. Assembly St.,Spokane,WA,FALSE
+Walla Walla Community College,149116,0,500600,Institution,500 Tausick Way,Walla Walla,WA,FALSE
+Walla Walla University,149125,0,379900,Institution,204 S College Ave,College Place,WA,TRUE
+Washington State University,149134,0,380000,Institution,French Administration Building,Pullman,WA,FALSE
+Washington State University-Spokane,238829,0,,Site,310 N. Riverpoint Blvd_ P.O Box 1495,Spokane,WA,FALSE
+Webster University,126386,0,252100,Institution,470 E Lockwood Ave.,Saint Louis,MO,FALSE
+Wenatchee Valley College,149152,0,380100,Institution,1300 Fifth St,Wenatchee,WA,FALSE
+Western State Hospital,196972,0,,Site,9601 Steilacoom Boulevard_ SW,Tacoma,WA,FALSE
+Western Washington University,149170,0,380200,Institution,516 High St,Bellingham,WA,FALSE
+Whatcom Community College,149189,0,1036400,Institution,237 W Kellogg Rd,Bellingham,WA,FALSE
+Whitman College,149198,0,380300,Institution,345 Boyer Ave,Walla Walla,WA,FALSE
+Whitworth University,149204,0,380400,Institution,300 W Hawthorne Rd,Spokane,WA,TRUE
+Wu Hsing Tao School,185837,0,,Institution,4000 ME 41st Street_ Bldg. D_ Ste. 1,Seattle,WA,FALSE
+Yakima Beauty School; Beauty Works,191296,0,3953300,Institution,401 North First Street,Yakima,WA,TRUE
+Yakima Valley Community College,149213,0,380500,Institution,Sixteenth and Nob Hill Boulevard,Yakima,WA,FALSE
+Yakima Valley Farm Workers Clinic - Northwest Dental Residency Advanced Education in General Dentistry 12 Months,209445,0,,Site,518 W. First Avenue,Toppenish,WA,FALSE
