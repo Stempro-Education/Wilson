@@ -1,0 +1,13 @@
+url	status_code
+http://www.georgefox.edu	200
+https://www.georgefox.edu	200
+https://athletics.georgefox.edu/landing/index	0
+http://blogs.georgefox.edu/newsreleases	0
+https://blogs.georgefox.edu/newsreleases/?p=7915	0
+https://blogs.georgefox.edu/newsreleases/?p=7820	0
+https://blogs.georgefox.edu/newsreleases/?p=7811	0
+https://webservices.georgefox.edu/class	200
+https://foxtale.georgefox.edu/moodle/login/index.php	0
+https://igfu.georgefox.edu	200
+https://my.georgefox.edu	200
+http://bookstore.georgefox.edu	0

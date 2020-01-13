@@ -1,0 +1,356 @@
+url	parent	ps	ns	text
+https://servicedesk.suagm.edu	option			-- Choose Domain --
+https://servicedesk.suagm.edu	option			 ACADEMIC.AGM.SU 
+https://servicedesk.suagm.edu	option			 AGM 
+https://servicedesk.suagm.edu	option			 UAGM 
+https://servicedesk.suagm.edu	option			 UTC 
+https://servicedesk.suagm.edu	option			 WORD 
+https://servicedesk.suagm.edu	option			 WORK 
+https://servicedesk.suagm.edu	option			 WORKGROUP 
+https://servicedesk.suagm.edu	option			Local Authentication
+https://servicedesk.suagm.edu	div			Select a Domain
+https://servicedesk.suagm.edu	div			Options
+https://servicedesk.suagm.edu	div			Enter both username and password to proceed
+https://servicedesk.suagm.edu	div			Captcha text cannot be empty.
+https://servicedesk.suagm.edu	div			Local Authentication
+https://servicedesk.suagm.edu	div			--Select Domain--
+https://servicedesk.suagm.edu	label		span	Domain - 
+https://servicedesk.suagm.edu	button			Log in
+http://ut.suagm.edu	a			Pasar al contenido principal
+http://ut.suagm.edu	iframe			Google Tag Manager
+http://ut.suagm.edu	a			Mi UAGM
+http://ut.suagm.edu	a			EMPLEO
+http://ut.suagm.edu	a			ACADÉMICOS
+http://ut.suagm.edu	a			EXALUMNOS
+http://ut.suagm.edu	a			DONAR
+http://ut.suagm.edu	span			Toggle navigation
+http://ut.suagm.edu	a			Inicio
+http://ut.suagm.edu	a		span	Conócenos 
+http://ut.suagm.edu	a			Sobre nosotros
+http://ut.suagm.edu	a			Acreditaciones
+http://ut.suagm.edu	a			Misión, Visión y Valores
+http://ut.suagm.edu	a			Nuestro Rector
+http://ut.suagm.edu	a			Himno
+http://ut.suagm.edu	a			Alianzas
+http://ut.suagm.edu	a			Membresías
+http://ut.suagm.edu	a			Catálogos
+http://ut.suagm.edu	a			Institutos y Centros
+http://ut.suagm.edu	a			Museo y Centro de Estudios Humanísticos
+http://ut.suagm.edu	a			Relaciones Públicas y Prensa
+http://ut.suagm.edu	a			¿Cómo llegar?
+http://ut.suagm.edu	a		span	Oferta Académica 
+http://ut.suagm.edu	a			Programas
+http://ut.suagm.edu	a			Escuelas
+http://ut.suagm.edu	a			Localidades
+http://ut.suagm.edu	a			Centro de Estudios Graduados e Investigación
+http://ut.suagm.edu	a			Educación a Distancia
+http://ut.suagm.edu	a		span	Admisiones 
+http://ut.suagm.edu	a			¿Por qué la UAGM - Recinto de Gurabo?
+http://ut.suagm.edu	a			Solicita Admisión
+http://ut.suagm.edu	a			Encuesta de satisfacción
+http://ut.suagm.edu	a			Solicita Información
+http://ut.suagm.edu	a			Requisitos de Admisión
+http://ut.suagm.edu	a			Costos de Estudios
+http://ut.suagm.edu	a			Tesorería
+http://ut.suagm.edu	a			Programación de Cursos
+http://ut.suagm.edu	a			Asistencia Económica
+http://ut.suagm.edu	a			Padres y Familias
+http://ut.suagm.edu	a			Contáctenos
+http://ut.suagm.edu	a		span	Asuntos Estudiantiles 
+http://ut.suagm.edu	a			Registraduría
+http://ut.suagm.edu	a			Centro de Empleo
+http://ut.suagm.edu	a			Calidad de Vida y Bienestar
+http://ut.suagm.edu	a			Becas e Internados
+http://ut.suagm.edu	a			Estudiante Consumidor
+http://ut.suagm.edu	a			Biblioteca
+http://ut.suagm.edu	a			Internacional
+http://ut.suagm.edu	a		span	Deportes 
+http://ut.suagm.edu	a			CENPROS
+http://ut.suagm.edu	h2			Inicio de clases
+http://ut.suagm.edu	p			Iniciaremos nuestras clases en todos nuestros recintos, localidades y Programa AHORA el lunes, 20 de enero.
+http://ut.suagm.edu	h2			Somos una sola Universidad
+http://ut.suagm.edu	p			Contamos con la misma excelencia académica, extraordinarias instalaciones, lo último en tecnología y profesores altamente calificados.
+http://ut.suagm.edu	h2			Instalaciones físicas de primera
+http://ut.suagm.edu	p			La Universidad Ana G. Méndez - Recinto de Gurabo ofrece a sus estudiantes en sus distintos campus, excelentes instalaciones físicas y equipadas...
+http://ut.suagm.edu	a			Conoce nuestro campus principal
+http://ut.suagm.edu	h2			Estudia en UAGM  Recinto de Gurabo
+http://ut.suagm.edu	p			Un nivel académico de primera, excelentes instalaciones y PROGRAMAS ACREDITADOS, son algunas de las razones para estudiar en la Universidad Ana G...
+http://ut.suagm.edu	a			Una razón más...
+http://ut.suagm.edu	a			FAFSA
+http://ut.suagm.edu	a			Seguridad y Vigilancia
+http://ut.suagm.edu	h2			Eventos
+http://ut.suagm.edu	a			Inicio de clases
+http://ut.suagm.edu	span			Enero 20
+http://ut.suagm.edu	a			     Ver todos  
+http://ut.suagm.edu	h2			Noticias
+http://ut.suagm.edu	a			Acuerdo colaborativo con PRTESOL 
+http://ut.suagm.edu	a			Presenta en Tailandia
+http://ut.suagm.edu	a			Acuerdo con Spanglish Movies 
+http://ut.suagm.edu	a			Gana Primer Premio en HALS 2019
+http://ut.suagm.edu	a			     Ver todas  
+http://ut.suagm.edu	h2			Localidades
+http://ut.suagm.edu	a			Barceloneta
+http://ut.suagm.edu	a			Cayey
+http://ut.suagm.edu	a			Isabela
+http://ut.suagm.edu	a			Ponce
+http://ut.suagm.edu	a			Yabucoa
+http://ut.suagm.edu	h2			Escuelas
+http://ut.suagm.edu	a			 Artes Liberales y Educación General 
+http://ut.suagm.edu	a			Ciencias de la Salud
+http://ut.suagm.edu	a			Ciencias Naturales y Tecnología
+http://ut.suagm.edu	a			Ciencias Sociales y Comunicaciones
+http://ut.suagm.edu	a			Educación
+http://ut.suagm.edu	a			Educación Continua
+http://ut.suagm.edu	a			Estudios Profesionales (AHORA)
+http://ut.suagm.edu	a			Estudios Técnicos
+http://ut.suagm.edu	a			Ingeniería
+http://ut.suagm.edu	a			Internacional de Diseño y Arquitectura
+http://ut.suagm.edu	a			Negocios y Empresarismo
+http://ut.suagm.edu	a			Seguridad Pública-ISEP
+http://ut.suagm.edu	h2			Oferta Académica
+http://ut.suagm.edu	a			Certificados Técnicos
+http://ut.suagm.edu	a			Grados Asociados
+http://ut.suagm.edu	a			Bachilleratos
+http://ut.suagm.edu	a			Concentraciones Menores
+http://ut.suagm.edu	a			Certificados Profesionales
+http://ut.suagm.edu	a			Maestrías
+http://ut.suagm.edu	a			Doctorados
+http://ut.suagm.edu	h2			Solo para Asociados
+http://ut.suagm.edu	a			Buzón de Asociados
+http://ut.suagm.edu	a			Planta Física y Operaciones
+http://ut.suagm.edu	a			Solicita Sello AVI
+http://ut.suagm.edu	a			Recursos Humanos
+http://ut.suagm.edu	a			Acceso a editores y publicadores
+http://ut.suagm.edu	a			Solicitud para contenido Web
+http://ut.suagm.edu	a			Help Desk
+http://ut.suagm.edu	span		a	© 2019  |  
+http://ut.suagm.edu	a			Política de Privacidad y Seguridad
+http://ut.suagm.edu	strong			(787) 751-1280
+http://ut.suagm.edu/node/749	a			Pasar al contenido principal
+http://ut.suagm.edu/node/749	iframe			Google Tag Manager
+http://ut.suagm.edu/node/749	a			Mi UAGM
+http://ut.suagm.edu/node/749	a			EMPLEO
+http://ut.suagm.edu/node/749	a			ACADÉMICOS
+http://ut.suagm.edu/node/749	a			EXALUMNOS
+http://ut.suagm.edu/node/749	a			DONAR
+http://ut.suagm.edu/node/749	span			Toggle navigation
+http://ut.suagm.edu/node/749	a			Inicio
+http://ut.suagm.edu/node/749	a		span	Conócenos 
+http://ut.suagm.edu/node/749	a			Sobre nosotros
+http://ut.suagm.edu/node/749	a			Acreditaciones
+http://ut.suagm.edu/node/749	a			Misión, Visión y Valores
+http://ut.suagm.edu/node/749	a			Nuestro Rector
+http://ut.suagm.edu/node/749	a			Himno
+http://ut.suagm.edu/node/749	a			Alianzas
+http://ut.suagm.edu/node/749	a			Membresías
+http://ut.suagm.edu/node/749	a			Catálogos
+http://ut.suagm.edu/node/749	a			Institutos y Centros
+http://ut.suagm.edu/node/749	a			Museo y Centro de Estudios Humanísticos
+http://ut.suagm.edu/node/749	a			Relaciones Públicas y Prensa
+http://ut.suagm.edu/node/749	a			¿Cómo llegar?
+http://ut.suagm.edu/node/749	a		span	Oferta Académica 
+http://ut.suagm.edu/node/749	a			Programas
+http://ut.suagm.edu/node/749	a			Escuelas
+http://ut.suagm.edu/node/749	a			Localidades
+http://ut.suagm.edu/node/749	a			Centro de Estudios Graduados e Investigación
+http://ut.suagm.edu/node/749	a			Educación a Distancia
+http://ut.suagm.edu/node/749	a		span	Admisiones 
+http://ut.suagm.edu/node/749	a			¿Por qué la UAGM - Recinto de Gurabo?
+http://ut.suagm.edu/node/749	a			Solicita Admisión
+http://ut.suagm.edu/node/749	a			Encuesta de satisfacción
+http://ut.suagm.edu/node/749	a			Solicita Información
+http://ut.suagm.edu/node/749	a			Requisitos de Admisión
+http://ut.suagm.edu/node/749	a			Costos de Estudios
+http://ut.suagm.edu/node/749	a			Tesorería
+http://ut.suagm.edu/node/749	a			Programación de Cursos
+http://ut.suagm.edu/node/749	a			Asistencia Económica
+http://ut.suagm.edu/node/749	a			Padres y Familias
+http://ut.suagm.edu/node/749	a			Contáctenos
+http://ut.suagm.edu/node/749	a		span	Asuntos Estudiantiles 
+http://ut.suagm.edu/node/749	a			Registraduría
+http://ut.suagm.edu/node/749	a			Centro de Empleo
+http://ut.suagm.edu/node/749	a			Calidad de Vida y Bienestar
+http://ut.suagm.edu/node/749	a			Becas e Internados
+http://ut.suagm.edu/node/749	a			Estudiante Consumidor
+http://ut.suagm.edu/node/749	a			Biblioteca
+http://ut.suagm.edu/node/749	a			Internacional
+http://ut.suagm.edu/node/749	a		span	Deportes 
+http://ut.suagm.edu/node/749	a			CENPROS
+http://ut.suagm.edu/node/749	h1			Contáctenos
+http://ut.suagm.edu/node/749	span			Cuadro
+http://ut.suagm.edu/node/749	span			1-888-933-7979 (787) 743-7979
+http://ut.suagm.edu/node/749	span			Rectoría
+http://ut.suagm.edu/node/749	strong			Dr. David Méndez Págan
+http://ut.suagm.edu/node/749	p		br	 Rector
+http://ut.suagm.edu/node/749	p			 Ext. 4000 
+http://ut.suagm.edu/node/749	strong			Lizbeth Rivera Mejías
+http://ut.suagm.edu/node/749	p		br	 Vicerrectora Asuntos Administrativos
+http://ut.suagm.edu/node/749	p			 Ext. 4001
+http://ut.suagm.edu/node/749	strong			Sara C. Vega Valentín
+http://ut.suagm.edu/node/749	p		br	 Ayudante Ejecutivo del Rector
+http://ut.suagm.edu/node/749	p			 Ext. 4002
+http://ut.suagm.edu/node/749	strong			Ana R. Núñez
+http://ut.suagm.edu/node/749	p		br	 Directora de Administración
+http://ut.suagm.edu/node/749	p			 Ext. 4003
+http://ut.suagm.edu/node/749	strong			Elivette Díaz Miranda
+http://ut.suagm.edu/node/749	p		br	 Oficial Administrativo
+http://ut.suagm.edu/node/749	p		br	 Ext. 4004
+http://ut.suagm.edu/node/749	p			 Fax (787) 744-5394
+http://ut.suagm.edu/node/749	h2			Noticias
+http://ut.suagm.edu/node/749	a			Acuerdo colaborativo entre el Recinto de Gurabo y PRTESOL  
+http://ut.suagm.edu/node/749	a			Presenta en Tailandia
+http://ut.suagm.edu/node/749	a			Acuerdo con Spanglish Movies permitirá la recopilación y exhibición de piezas latinoamericanas
+http://ut.suagm.edu/node/749	a			     Ver todas  
+http://ut.suagm.edu/node/749	h2			Eventos
+http://ut.suagm.edu/node/749	a			Inicio de clases
+http://ut.suagm.edu/node/749	span			Enero 20
+http://ut.suagm.edu/node/749	div			Recinto de Gurabo y localidades
+http://ut.suagm.edu/node/749	a			     Ver todos  
+http://ut.suagm.edu/node/749	h2			Localidades
+http://ut.suagm.edu/node/749	a			Barceloneta
+http://ut.suagm.edu/node/749	a			Cayey
+http://ut.suagm.edu/node/749	a			Isabela
+http://ut.suagm.edu/node/749	a			Ponce
+http://ut.suagm.edu/node/749	a			Yabucoa
+http://ut.suagm.edu/node/749	h2			Escuelas
+http://ut.suagm.edu/node/749	a			 Artes Liberales y Educación General 
+http://ut.suagm.edu/node/749	a			Ciencias de la Salud
+http://ut.suagm.edu/node/749	a			Ciencias Naturales y Tecnología
+http://ut.suagm.edu/node/749	a			Ciencias Sociales y Comunicaciones
+http://ut.suagm.edu/node/749	a			Educación
+http://ut.suagm.edu/node/749	a			Educación Continua
+http://ut.suagm.edu/node/749	a			Estudios Profesionales (AHORA)
+http://ut.suagm.edu/node/749	a			Estudios Técnicos
+http://ut.suagm.edu/node/749	a			Ingeniería
+http://ut.suagm.edu/node/749	a			Internacional de Diseño y Arquitectura
+http://ut.suagm.edu/node/749	a			Negocios y Empresarismo
+http://ut.suagm.edu/node/749	a			Seguridad Pública-ISEP
+http://ut.suagm.edu/node/749	h2			Oferta Académica
+http://ut.suagm.edu/node/749	a			Certificados Técnicos
+http://ut.suagm.edu/node/749	a			Grados Asociados
+http://ut.suagm.edu/node/749	a			Bachilleratos
+http://ut.suagm.edu/node/749	a			Concentraciones Menores
+http://ut.suagm.edu/node/749	a			Certificados Profesionales
+http://ut.suagm.edu/node/749	a			Maestrías
+http://ut.suagm.edu/node/749	a			Doctorados
+http://ut.suagm.edu/node/749	h2			Solo para Asociados
+http://ut.suagm.edu/node/749	a			Buzón de Asociados
+http://ut.suagm.edu/node/749	a			Planta Física y Operaciones
+http://ut.suagm.edu/node/749	a			Solicita Sello AVI
+http://ut.suagm.edu/node/749	a			Recursos Humanos
+http://ut.suagm.edu/node/749	a			Acceso a editores y publicadores
+http://ut.suagm.edu/node/749	a			Solicitud para contenido Web
+http://ut.suagm.edu/node/749	a			Help Desk
+http://ut.suagm.edu/node/749	span		a	© 2019  |  
+http://ut.suagm.edu/node/749	a			Política de Privacidad y Seguridad
+http://ut.suagm.edu/node/749	strong			(787) 751-1280
+http://www.suagm.edu/turabo	a			Pasar al contenido principal
+http://www.suagm.edu/turabo	iframe			Google Tag Manager
+http://www.suagm.edu/turabo	a			Mi UAGM
+http://www.suagm.edu/turabo	a			EMPLEO
+http://www.suagm.edu/turabo	a			ACADÉMICOS
+http://www.suagm.edu/turabo	a			EXALUMNOS
+http://www.suagm.edu/turabo	a			DONAR
+http://www.suagm.edu/turabo	span			Toggle navigation
+http://www.suagm.edu/turabo	a			Inicio
+http://www.suagm.edu/turabo	a		span	Conócenos 
+http://www.suagm.edu/turabo	a			Sobre nosotros
+http://www.suagm.edu/turabo	a			Acreditaciones
+http://www.suagm.edu/turabo	a			Misión, Visión y Valores
+http://www.suagm.edu/turabo	a			Nuestro Rector
+http://www.suagm.edu/turabo	a			Himno
+http://www.suagm.edu/turabo	a			Alianzas
+http://www.suagm.edu/turabo	a			Membresías
+http://www.suagm.edu/turabo	a			Catálogos
+http://www.suagm.edu/turabo	a			Institutos y Centros
+http://www.suagm.edu/turabo	a			Museo y Centro de Estudios Humanísticos
+http://www.suagm.edu/turabo	a			Relaciones Públicas y Prensa
+http://www.suagm.edu/turabo	a			¿Cómo llegar?
+http://www.suagm.edu/turabo	a		span	Oferta Académica 
+http://www.suagm.edu/turabo	a			Programas
+http://www.suagm.edu/turabo	a			Escuelas
+http://www.suagm.edu/turabo	a			Localidades
+http://www.suagm.edu/turabo	a			Centro de Estudios Graduados e Investigación
+http://www.suagm.edu/turabo	a			Educación a Distancia
+http://www.suagm.edu/turabo	a		span	Admisiones 
+http://www.suagm.edu/turabo	a			¿Por qué la UAGM - Recinto de Gurabo?
+http://www.suagm.edu/turabo	a			Solicita Admisión
+http://www.suagm.edu/turabo	a			Encuesta de satisfacción
+http://www.suagm.edu/turabo	a			Solicita Información
+http://www.suagm.edu/turabo	a			Requisitos de Admisión
+http://www.suagm.edu/turabo	a			Costos de Estudios
+http://www.suagm.edu/turabo	a			Tesorería
+http://www.suagm.edu/turabo	a			Programación de Cursos
+http://www.suagm.edu/turabo	a			Asistencia Económica
+http://www.suagm.edu/turabo	a			Padres y Familias
+http://www.suagm.edu/turabo	a			Contáctenos
+http://www.suagm.edu/turabo	a		span	Asuntos Estudiantiles 
+http://www.suagm.edu/turabo	a			Registraduría
+http://www.suagm.edu/turabo	a			Centro de Empleo
+http://www.suagm.edu/turabo	a			Calidad de Vida y Bienestar
+http://www.suagm.edu/turabo	a			Becas e Internados
+http://www.suagm.edu/turabo	a			Estudiante Consumidor
+http://www.suagm.edu/turabo	a			Biblioteca
+http://www.suagm.edu/turabo	a			Internacional
+http://www.suagm.edu/turabo	a		span	Deportes 
+http://www.suagm.edu/turabo	a			CENPROS
+http://www.suagm.edu/turabo	h2			Inicio de clases
+http://www.suagm.edu/turabo	p			Iniciaremos nuestras clases en todos nuestros recintos, localidades y Programa AHORA el lunes, 20 de enero.
+http://www.suagm.edu/turabo	h2			Somos una sola Universidad
+http://www.suagm.edu/turabo	p			Contamos con la misma excelencia académica, extraordinarias instalaciones, lo último en tecnología y profesores altamente calificados.
+http://www.suagm.edu/turabo	h2			Instalaciones físicas de primera
+http://www.suagm.edu/turabo	p			La Universidad Ana G. Méndez - Recinto de Gurabo ofrece a sus estudiantes en sus distintos campus, excelentes instalaciones físicas y equipadas...
+http://www.suagm.edu/turabo	a			Conoce nuestro campus principal
+http://www.suagm.edu/turabo	h2			Estudia en UAGM  Recinto de Gurabo
+http://www.suagm.edu/turabo	p			Un nivel académico de primera, excelentes instalaciones y PROGRAMAS ACREDITADOS, son algunas de las razones para estudiar en la Universidad Ana G...
+http://www.suagm.edu/turabo	a			Una razón más...
+http://www.suagm.edu/turabo	a			FAFSA
+http://www.suagm.edu/turabo	a			Seguridad y Vigilancia
+http://www.suagm.edu/turabo	h2			Eventos
+http://www.suagm.edu/turabo	a			Inicio de clases
+http://www.suagm.edu/turabo	span			Enero 20
+http://www.suagm.edu/turabo	a			     Ver todos  
+http://www.suagm.edu/turabo	h2			Noticias
+http://www.suagm.edu/turabo	a			Acuerdo colaborativo con PRTESOL 
+http://www.suagm.edu/turabo	a			Presenta en Tailandia
+http://www.suagm.edu/turabo	a			Acuerdo con Spanglish Movies 
+http://www.suagm.edu/turabo	a			Gana Primer Premio en HALS 2019
+http://www.suagm.edu/turabo	a			     Ver todas  
+http://www.suagm.edu/turabo	h2			Localidades
+http://www.suagm.edu/turabo	a			Barceloneta
+http://www.suagm.edu/turabo	a			Cayey
+http://www.suagm.edu/turabo	a			Isabela
+http://www.suagm.edu/turabo	a			Ponce
+http://www.suagm.edu/turabo	a			Yabucoa
+http://www.suagm.edu/turabo	h2			Escuelas
+http://www.suagm.edu/turabo	a			 Artes Liberales y Educación General 
+http://www.suagm.edu/turabo	a			Ciencias de la Salud
+http://www.suagm.edu/turabo	a			Ciencias Naturales y Tecnología
+http://www.suagm.edu/turabo	a			Ciencias Sociales y Comunicaciones
+http://www.suagm.edu/turabo	a			Educación
+http://www.suagm.edu/turabo	a			Educación Continua
+http://www.suagm.edu/turabo	a			Estudios Profesionales (AHORA)
+http://www.suagm.edu/turabo	a			Estudios Técnicos
+http://www.suagm.edu/turabo	a			Ingeniería
+http://www.suagm.edu/turabo	a			Internacional de Diseño y Arquitectura
+http://www.suagm.edu/turabo	a			Negocios y Empresarismo
+http://www.suagm.edu/turabo	a			Seguridad Pública-ISEP
+http://www.suagm.edu/turabo	h2			Oferta Académica
+http://www.suagm.edu/turabo	a			Certificados Técnicos
+http://www.suagm.edu/turabo	a			Grados Asociados
+http://www.suagm.edu/turabo	a			Bachilleratos
+http://www.suagm.edu/turabo	a			Concentraciones Menores
+http://www.suagm.edu/turabo	a			Certificados Profesionales
+http://www.suagm.edu/turabo	a			Maestrías
+http://www.suagm.edu/turabo	a			Doctorados
+http://www.suagm.edu/turabo	h2			Solo para Asociados
+http://www.suagm.edu/turabo	a			Buzón de Asociados
+http://www.suagm.edu/turabo	a			Planta Física y Operaciones
+http://www.suagm.edu/turabo	a			Solicita Sello AVI
+http://www.suagm.edu/turabo	a			Recursos Humanos
+http://www.suagm.edu/turabo	a			Acceso a editores y publicadores
+http://www.suagm.edu/turabo	a			Solicitud para contenido Web
+http://www.suagm.edu/turabo	a			Help Desk
+http://www.suagm.edu/turabo	span		a	© 2019  |  
+http://www.suagm.edu/turabo	a			Política de Privacidad y Seguridad
+http://www.suagm.edu/turabo	strong			(787) 751-1280
