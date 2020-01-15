@@ -1,0 +1,716 @@
+url	parent	ps	ns	text
+http://www.ciu.edu	a			Jump to navigation
+http://www.ciu.edu	a			Apply Now
+http://www.ciu.edu	a			My CIU
+http://www.ciu.edu	h2			Utility Menu
+http://www.ciu.edu	a			About CIU
+http://www.ciu.edu	a			Academics
+http://www.ciu.edu	a			Advancement
+http://www.ciu.edu	a			Alumni
+http://www.ciu.edu	a			Athletics
+http://www.ciu.edu	a			Calendar
+http://www.ciu.edu	a			Financial Aid
+http://www.ciu.edu	a			Make a Gift
+http://www.ciu.edu	button		i	Menu 
+http://www.ciu.edu	button			 Close
+http://www.ciu.edu	h2			Search form
+http://www.ciu.edu	label			Search 
+http://www.ciu.edu	h2			StudentBridge Analytics
+http://www.ciu.edu	a			Undergraduate
+http://www.ciu.edu	a			Visit Campus
+http://www.ciu.edu	a			Admissions
+http://www.ciu.edu	a			Dual Enrollment
+http://www.ciu.edu	a			Scholarships & Grants
+http://www.ciu.edu	a			Tuition & Fees
+http://www.ciu.edu	a			Campus Life
+http://www.ciu.edu	a			Admitted Students
+http://www.ciu.edu	a			Graduate
+http://www.ciu.edu	a			Degrees Offered
+http://www.ciu.edu	a			Tuition and Fees
+http://www.ciu.edu	a			Online
+http://www.ciu.edu	a			Admission Requirements
+http://www.ciu.edu	a			FAQs
+http://www.ciu.edu	a			Seminary
+http://www.ciu.edu	a			Seminary Tuition and Fees
+http://www.ciu.edu	h2	ul		Utility Menu
+http://www.ciu.edu	h2			Request Information
+http://www.ciu.edu	label		span	Name 
+http://www.ciu.edu	label		span	First Name 
+http://www.ciu.edu	label		span	Last Name 
+http://www.ciu.edu	label		span	Email 
+http://www.ciu.edu	label		span	Mobile Phone 
+http://www.ciu.edu	label			Text Messaging Permission 
+http://www.ciu.edu	label			Yes, I will accept text messages from CIU. 
+http://www.ciu.edu	label			No text messages, please. 
+http://www.ciu.edu	div			Message and data rates may apply.
+http://www.ciu.edu	label		span	Program of Interest 
+http://www.ciu.edu	option			- Select -
+http://www.ciu.edu	option	option		Online Undergraduate
+http://www.ciu.edu	option	option		Online Graduate
+http://www.ciu.edu	option	option		On Campus Undergraduate
+http://www.ciu.edu	option	option		On Campus Graduate
+http://www.ciu.edu	option	option		High School Dual Enrollment
+http://www.ciu.edu	label		span	Program of Interest - Online Undergraduate 
+http://www.ciu.edu	option	option		AA - Business
+http://www.ciu.edu	option	option		AA - General Studies
+http://www.ciu.edu	option	option		AA - Human Services
+http://www.ciu.edu	option	option		BS/BA - Business Administration
+http://www.ciu.edu	option	option		BS/BA - General Studies
+http://www.ciu.edu	option	option		BS/BA - Human Services
+http://www.ciu.edu	label		span	Program of Interest - Online Graduate 
+http://www.ciu.edu	option			MA in Bible Exposition
+http://www.ciu.edu	option	option		MA in Care and Counseling
+http://www.ciu.edu	option	option		MA in Chaplaincy
+http://www.ciu.edu	option	option		MA in Disaster Relief Management
+http://www.ciu.edu	option	option		MA in Global Migration Studies
+http://www.ciu.edu	option	option		MA in Human Services Counseling
+http://www.ciu.edu	option	option		MA in Ministry Studies
+http://www.ciu.edu	option	option		MA in Missiological Studies
+http://www.ciu.edu	option	option		MA in Muslim Studies
+http://www.ciu.edu	option	option		MA in Teaching English to Speakers of Other Lang
+http://www.ciu.edu	option	option		MA in Youth Ministry Leadership
+http://www.ciu.edu	option	option		MA in Intercultural Studies
+http://www.ciu.edu	option	option		MA in Theological Studies
+http://www.ciu.edu	option			Master in Business Administration
+http://www.ciu.edu	option	option		MBA Finance
+http://www.ciu.edu	option	option		MBA Health Care Administration
+http://www.ciu.edu	option			MDIV Bible Exposition
+http://www.ciu.edu	option	option		MDIV Care and Counseling
+http://www.ciu.edu	option	option		MDIV Chaplaincy
+http://www.ciu.edu	option	option		MDIV Ministry Studies
+http://www.ciu.edu	option	option		MDIV Missiological Studies
+http://www.ciu.edu	option	option		MDIV Muslim Studies
+http://www.ciu.edu	option	option		MDIV Youth Ministry Leadership
+http://www.ciu.edu	option	option		MDIV Teaching English as a Foreign Language
+http://www.ciu.edu	option	option		MDIV Teaching English to Speakers of Other Lang
+http://www.ciu.edu	option			MED Early Childhood
+http://www.ciu.edu	option	option		MED Educational Administration
+http://www.ciu.edu	option	option		MED Global Migration Studies
+http://www.ciu.edu	option	option		MED Instruction and Learning
+http://www.ciu.edu	option	option		MED Intercultural Studies
+http://www.ciu.edu	option	option		MED Spiritual Formation
+http://www.ciu.edu	option	option		MED TESOL
+http://www.ciu.edu	option			Master in Organizational Leadership
+http://www.ciu.edu	option			Doctor of Ministerial Leadership
+http://www.ciu.edu	option			PHD Biblical Studies
+http://www.ciu.edu	option	option		PHD Educational Leadership
+http://www.ciu.edu	option	option		PHD Intercultural Studies
+http://www.ciu.edu	option	option		PHD Organizational Leadership
+http://www.ciu.edu	option	option		PHD Theological Studies
+http://www.ciu.edu	option			EDS Educational Leadership
+http://www.ciu.edu	option			Graduate Bible & Theology Certificate
+http://www.ciu.edu	option	option		Graduate Biblical Ministry Certificate
+http://www.ciu.edu	option	option		Graduate Intercultural Studies Certificate
+http://www.ciu.edu	option	option		Graduate Muslim Studies Certificate
+http://www.ciu.edu	option	option		Graduate TESOL Certificate
+http://www.ciu.edu	label		span	Program of Interest - On Campus Undergraduate 
+http://www.ciu.edu	option	option		AA - Associate of Arts
+http://www.ciu.edu	option	option		BS/BA in Bible
+http://www.ciu.edu	option	option		BS/BA in Bible Teaching
+http://www.ciu.edu	option	option		BS/BA in Business Administration
+http://www.ciu.edu	option	option		BS/BA in Church Ministry
+http://www.ciu.edu	option	option		BS/BA in Communication
+http://www.ciu.edu	option	option		BS/BA in Digital Media and Cinema
+http://www.ciu.edu	option	option		BS/BA in Disaster Relief & Management
+http://www.ciu.edu	option	option		BS/BA in English
+http://www.ciu.edu	option	option		BS/BA in General Studies
+http://www.ciu.edu	option	option		BS/BA in Human Services
+http://www.ciu.edu	option	option		BS/BA in Humanities
+http://www.ciu.edu	option	option		BS/BA in Intercultural Studies
+http://www.ciu.edu	option	option		BS/BA in Media Arts
+http://www.ciu.edu	option	option		BS/BA in Middle Eastern Studies
+http://www.ciu.edu	option	option		BA in Music
+http://www.ciu.edu	option	option		BA in Pastoral Theology
+http://www.ciu.edu	option	option		BS/BA in Philosophy
+http://www.ciu.edu	option	option		BS/BA in Psychology
+http://www.ciu.edu	option	option		BS/BA in Social Media Strategist
+http://www.ciu.edu	option	option		BS/BA in Sport Management
+http://www.ciu.edu	option	option		BS/BA in Teach English to Speakers of Other Lang
+http://www.ciu.edu	option	option		BS/BA in Teacher Education
+http://www.ciu.edu	option	option		BS/BA in Youth Ministry, Family & Culture
+http://www.ciu.edu	option	option		BS/BA in International Community Development
+http://www.ciu.edu	option	option		Undecided
+http://www.ciu.edu	label		span	Program of Interest - On Campus Graduate 
+http://www.ciu.edu	option	option		MA in Bible Teaching
+http://www.ciu.edu	option	option		MA in Counseling
+http://www.ciu.edu	option			MAT in Early Childhood & Elementary Education
+http://www.ciu.edu	option	option		MAT in Early Childhood and Elementary Education P2
+http://www.ciu.edu	option			Graduate Cert in Bible & Theology
+http://www.ciu.edu	option	option		Graduate Cert in Biblical Ministry
+http://www.ciu.edu	option	option		Graduate Cert in Intercultural Studies
+http://www.ciu.edu	option	option		Graduate Cert in Muslim Studies
+http://www.ciu.edu	option	option		Graduate Cert in TESOL
+http://www.ciu.edu	option	option		Postgrad Cert in Marriage and Family Counseling
+http://www.ciu.edu	option	option		Postgrad Cert in Mission Care & Counseling
+http://www.ciu.edu	option	option		Postgrad Cert in Srt Trm Pastoral Counseling
+http://www.ciu.edu	option	option		Postgrad Cert in Adv Biblical & Theological Stud
+http://www.ciu.edu	option			Undecided
+http://www.ciu.edu	option	option		Non Degree Seeking
+http://www.ciu.edu	label		span	Projected Start Term 
+http://www.ciu.edu	option			Spring 2020
+http://www.ciu.edu	option	option		Fall 2020
+http://www.ciu.edu	option	option		Spring 2021
+http://www.ciu.edu	option	option		Fall 2021
+http://www.ciu.edu	label		span	Projected Graduation Year 
+http://www.ciu.edu	label			Month 
+http://www.ciu.edu	option			Month
+http://www.ciu.edu	option	option		Jan
+http://www.ciu.edu	option	option		Feb
+http://www.ciu.edu	option	option		Mar
+http://www.ciu.edu	option	option		Apr
+http://www.ciu.edu	option	option		May
+http://www.ciu.edu	option	option		Jun
+http://www.ciu.edu	option	option		Jul
+http://www.ciu.edu	option	option		Aug
+http://www.ciu.edu	option	option		Sep
+http://www.ciu.edu	option	option		Oct
+http://www.ciu.edu	option	option		Nov
+http://www.ciu.edu	option	option		Dec
+http://www.ciu.edu	label			Day 
+http://www.ciu.edu	option			Day
+http://www.ciu.edu	label			Year 
+http://www.ciu.edu	option			Year
+http://www.ciu.edu	option	option		2021
+http://www.ciu.edu	option	option		2022
+http://www.ciu.edu	option	option		2023
+http://www.ciu.edu	option	option		2024
+http://www.ciu.edu	option	option		2025
+http://www.ciu.edu	label			Country 
+http://www.ciu.edu	option			Afghanistan
+http://www.ciu.edu	option	option		Albania
+http://www.ciu.edu	option	option		Algeria
+http://www.ciu.edu	option	option		American Samoa
+http://www.ciu.edu	option	option		Andorra
+http://www.ciu.edu	option	option		Angola
+http://www.ciu.edu	option	option		Anguilla
+http://www.ciu.edu	option	option		Antarctica
+http://www.ciu.edu	option	option		Antigua and Barbuda
+http://www.ciu.edu	option	option		Argentina
+http://www.ciu.edu	option	option		Armenia
+http://www.ciu.edu	option	option		Aruba
+http://www.ciu.edu	option	option		Australia
+http://www.ciu.edu	option	option		Austria
+http://www.ciu.edu	option	option		Azerbaijan
+http://www.ciu.edu	option	option		Bahamas
+http://www.ciu.edu	option	option		Bahrain
+http://www.ciu.edu	option	option		Bangladesh
+http://www.ciu.edu	option	option		Barbados
+http://www.ciu.edu	option	option		Belarus
+http://www.ciu.edu	option	option		Belgium
+http://www.ciu.edu	option	option		Belize
+http://www.ciu.edu	option	option		Benin
+http://www.ciu.edu	option	option		Bermuda
+http://www.ciu.edu	option	option		Bhutan
+http://www.ciu.edu	option	option		Bolivia
+http://www.ciu.edu	option	option		Bosnia and Herzegovina
+http://www.ciu.edu	option	option		Botswana
+http://www.ciu.edu	option	option		Bouvet Island
+http://www.ciu.edu	option	option		Brazil
+http://www.ciu.edu	option	option		British Indian Ocean Territory
+http://www.ciu.edu	option	option		Brunei
+http://www.ciu.edu	option	option		Bulgaria
+http://www.ciu.edu	option	option		Burkina Faso
+http://www.ciu.edu	option	option		Burundi
+http://www.ciu.edu	option	option		Cambodia
+http://www.ciu.edu	option	option		Cameroon
+http://www.ciu.edu	option	option		Canada
+http://www.ciu.edu	option	option		Cape Verde
+http://www.ciu.edu	option	option		Cayman Islands
+http://www.ciu.edu	option	option		Central African Republic
+http://www.ciu.edu	option	option		Chad
+http://www.ciu.edu	option	option		Chile
+http://www.ciu.edu	option	option		China
+http://www.ciu.edu	option	option		Christmas Island
+http://www.ciu.edu	option	option		Cocos ( Keeling ) Islands
+http://www.ciu.edu	option	option		Colombia
+http://www.ciu.edu	option	option		Comoros
+http://www.ciu.edu	option	option		Congo
+http://www.ciu.edu	option	option		Cook Islands
+http://www.ciu.edu	option	option		Costa Rica
+http://www.ciu.edu	option	option		Côte d ' Ivoire
+http://www.ciu.edu	option	option		Croatia ( Hrvatska )
+http://www.ciu.edu	option	option		Cuba
+http://www.ciu.edu	option	option		Cyprus
+http://www.ciu.edu	option	option		Czech Republic
+http://www.ciu.edu	option	option		Congo ( DRC )
+http://www.ciu.edu	option	option		Denmark
+http://www.ciu.edu	option	option		Djibouti
+http://www.ciu.edu	option	option		Dominica
+http://www.ciu.edu	option	option		Dominican Republic
+http://www.ciu.edu	option	option		East Timor
+http://www.ciu.edu	option	option		Ecuador
+http://www.ciu.edu	option	option		Egypt
+http://www.ciu.edu	option	option		El Salvador
+http://www.ciu.edu	option	option		Equatorial Guinea
+http://www.ciu.edu	option	option		Eritrea
+http://www.ciu.edu	option	option		Estonia
+http://www.ciu.edu	option	option		Ethiopia
+http://www.ciu.edu	option	option		Falkland Islands ( Islas Malvinas )
+http://www.ciu.edu	option	option		Faroe Islands
+http://www.ciu.edu	option	option		Fiji Islands
+http://www.ciu.edu	option	option		Finland
+http://www.ciu.edu	option	option		France
+http://www.ciu.edu	option	option		French Guiana
+http://www.ciu.edu	option	option		French Polynesia
+http://www.ciu.edu	option	option		French Southern and Antarctic Lands
+http://www.ciu.edu	option	option		Gabon
+http://www.ciu.edu	option	option		Gambia
+http://www.ciu.edu	option	option		Georgia
+http://www.ciu.edu	option	option		Germany
+http://www.ciu.edu	option	option		Ghana
+http://www.ciu.edu	option	option		Gibraltar
+http://www.ciu.edu	option	option		Greece
+http://www.ciu.edu	option	option		Greenland
+http://www.ciu.edu	option	option		Grenada
+http://www.ciu.edu	option	option		Guadeloupe
+http://www.ciu.edu	option	option		Guam
+http://www.ciu.edu	option	option		Guatemala
+http://www.ciu.edu	option	option		Guinea
+http://www.ciu.edu	option	option		Guinea-Bissau
+http://www.ciu.edu	option	option		Guyana
+http://www.ciu.edu	option	option		Haiti
+http://www.ciu.edu	option	option		Heard Island and McDonald Islands
+http://www.ciu.edu	option	option		Honduras
+http://www.ciu.edu	option	option		Hong Kong SAR
+http://www.ciu.edu	option	option		Hungary
+http://www.ciu.edu	option	option		Iceland
+http://www.ciu.edu	option	option		India
+http://www.ciu.edu	option	option		Indonesia
+http://www.ciu.edu	option	option		Iran
+http://www.ciu.edu	option	option		Iraq
+http://www.ciu.edu	option	option		Ireland
+http://www.ciu.edu	option	option		Israel
+http://www.ciu.edu	option	option		Italy
+http://www.ciu.edu	option	option		Jamaica
+http://www.ciu.edu	option	option		Japan
+http://www.ciu.edu	option	option		Jordan
+http://www.ciu.edu	option	option		Kazakhstan
+http://www.ciu.edu	option	option		Kenya
+http://www.ciu.edu	option	option		Kiribati
+http://www.ciu.edu	option	option		Korea
+http://www.ciu.edu	option	option		Kuwait
+http://www.ciu.edu	option	option		Kyrgyzstan
+http://www.ciu.edu	option	option		Laos
+http://www.ciu.edu	option	option		Latvia
+http://www.ciu.edu	option	option		Lebanon
+http://www.ciu.edu	option	option		Lesotho
+http://www.ciu.edu	option	option		Liberia
+http://www.ciu.edu	option	option		Libya
+http://www.ciu.edu	option	option		Liechtenstein
+http://www.ciu.edu	option	option		Lithuania
+http://www.ciu.edu	option	option		Luxembourg
+http://www.ciu.edu	option	option		Macao SAR
+http://www.ciu.edu	option	option		Macedonia, Former Yugoslav Republic of
+http://www.ciu.edu	option	option		Madagascar
+http://www.ciu.edu	option	option		Malawi
+http://www.ciu.edu	option	option		Malaysia
+http://www.ciu.edu	option	option		Maldives
+http://www.ciu.edu	option	option		Mali
+http://www.ciu.edu	option	option		Malta
+http://www.ciu.edu	option	option		Marshall Islands
+http://www.ciu.edu	option	option		Martinique
+http://www.ciu.edu	option	option		Mauritania
+http://www.ciu.edu	option	option		Mauritius
+http://www.ciu.edu	option	option		Mayotte
+http://www.ciu.edu	option	option		Mexico
+http://www.ciu.edu	option	option		Micronesia
+http://www.ciu.edu	option	option		Moldova
+http://www.ciu.edu	option	option		Monaco
+http://www.ciu.edu	option	option		Mongolia
+http://www.ciu.edu	option	option		Montserrat
+http://www.ciu.edu	option	option		Morocco
+http://www.ciu.edu	option	option		Mozambique
+http://www.ciu.edu	option	option		Myanmar
+http://www.ciu.edu	option	option		Namibia
+http://www.ciu.edu	option	option		Nauru
+http://www.ciu.edu	option	option		Nepal
+http://www.ciu.edu	option	option		Netherlands
+http://www.ciu.edu	option	option		Netherlands Antilles
+http://www.ciu.edu	option	option		New Caledonia
+http://www.ciu.edu	option	option		New Zealand
+http://www.ciu.edu	option	option		Nicaragua
+http://www.ciu.edu	option	option		Niger
+http://www.ciu.edu	option	option		Nigeria
+http://www.ciu.edu	option	option		Niue
+http://www.ciu.edu	option	option		Norfolk Island
+http://www.ciu.edu	option	option		North Korea
+http://www.ciu.edu	option	option		Northern Mariana Islands
+http://www.ciu.edu	option	option		Norway
+http://www.ciu.edu	option	option		Oman
+http://www.ciu.edu	option	option		Pakistan
+http://www.ciu.edu	option	option		Palau
+http://www.ciu.edu	option	option		Panama
+http://www.ciu.edu	option	option		Papua New Guinea
+http://www.ciu.edu	option	option		Paraguay
+http://www.ciu.edu	option	option		Peru
+http://www.ciu.edu	option	option		Philippines
+http://www.ciu.edu	option	option		Pitcairn Islands
+http://www.ciu.edu	option	option		Poland
+http://www.ciu.edu	option	option		Portugal
+http://www.ciu.edu	option	option		Puerto Rico
+http://www.ciu.edu	option	option		Qatar
+http://www.ciu.edu	option	option		Reunion
+http://www.ciu.edu	option	option		Romania
+http://www.ciu.edu	option	option		Russia
+http://www.ciu.edu	option	option		Rwanda
+http://www.ciu.edu	option	option		Samoa
+http://www.ciu.edu	option	option		San Marino
+http://www.ciu.edu	option	option		São Tomé and Prìncipe
+http://www.ciu.edu	option	option		Saudi Arabia
+http://www.ciu.edu	option	option		Senegal
+http://www.ciu.edu	option	option		Serbia and Montenegro
+http://www.ciu.edu	option	option		Seychelles
+http://www.ciu.edu	option	option		Sierra Leone
+http://www.ciu.edu	option	option		Singapore
+http://www.ciu.edu	option	option		Slovakia
+http://www.ciu.edu	option	option		Slovenia
+http://www.ciu.edu	option	option		Solomon Islands
+http://www.ciu.edu	option	option		Somalia
+http://www.ciu.edu	option	option		South Africa
+http://www.ciu.edu	option	option		South Georgia and the South Sandwich Islands
+http://www.ciu.edu	option	option		Spain
+http://www.ciu.edu	option	option		Sri Lanka
+http://www.ciu.edu	option	option		St. Helena
+http://www.ciu.edu	option	option		St. Kitts and Nevis
+http://www.ciu.edu	option	option		St. Lucia
+http://www.ciu.edu	option	option		St. Pierre and Miquelon
+http://www.ciu.edu	option	option		St. Vincent and the Grenadines
+http://www.ciu.edu	option	option		Sudan
+http://www.ciu.edu	option	option		Suriname
+http://www.ciu.edu	option	option		Svalbard and Jan Mayen
+http://www.ciu.edu	option	option		Swaziland
+http://www.ciu.edu	option	option		Sweden
+http://www.ciu.edu	option	option		Switzerland
+http://www.ciu.edu	option	option		Syria
+http://www.ciu.edu	option	option		Taiwan
+http://www.ciu.edu	option	option		Tajikistan
+http://www.ciu.edu	option	option		Tanzania
+http://www.ciu.edu	option	option		Thailand
+http://www.ciu.edu	option	option		Togo
+http://www.ciu.edu	option	option		Tokelau
+http://www.ciu.edu	option	option		Tonga
+http://www.ciu.edu	option	option		Trinidad and Tobago
+http://www.ciu.edu	option	option		Tunisia
+http://www.ciu.edu	option	option		Turkey
+http://www.ciu.edu	option	option		Turkmenistan
+http://www.ciu.edu	option	option		Turks and Caicos Islands
+http://www.ciu.edu	option	option		Tuvalu
+http://www.ciu.edu	option	option		Uganda
+http://www.ciu.edu	option	option		Ukraine
+http://www.ciu.edu	option	option		United Arab Emirates
+http://www.ciu.edu	option	option		United Kingdom
+http://www.ciu.edu	option	option		United States
+http://www.ciu.edu	option	option		United States Minor Outlying Islands
+http://www.ciu.edu	option	option		Uruguay
+http://www.ciu.edu	option	option		Uzbekistan
+http://www.ciu.edu	option	option		Vanuatu
+http://www.ciu.edu	option	option		Vatican City
+http://www.ciu.edu	option	option		Venezuela
+http://www.ciu.edu	option	option		Viet Nam
+http://www.ciu.edu	option	option		Virgin Islands ( British )
+http://www.ciu.edu	option	option		Virgin Islands
+http://www.ciu.edu	option	option		Wallis and Futuna
+http://www.ciu.edu	option	option		Yemen
+http://www.ciu.edu	option	option		Zambia
+http://www.ciu.edu	option	option		Zimbabwe
+http://www.ciu.edu	label			Address 
+http://www.ciu.edu	label			City 
+http://www.ciu.edu	label			State/Province 
+http://www.ciu.edu	option			-State/Province-
+http://www.ciu.edu	option	option		Alabama
+http://www.ciu.edu	option	option		Alaska
+http://www.ciu.edu	option	option		Arizona
+http://www.ciu.edu	option	option		Arkansas
+http://www.ciu.edu	option	option		California
+http://www.ciu.edu	option	option		Colorado
+http://www.ciu.edu	option	option		Connecticut
+http://www.ciu.edu	option	option		Delaware
+http://www.ciu.edu	option	option		District Of Columbia
+http://www.ciu.edu	option	option		Florida
+http://www.ciu.edu	option	option		Hawaii
+http://www.ciu.edu	option	option		Idaho
+http://www.ciu.edu	option	option		Illinois
+http://www.ciu.edu	option	option		Indiana
+http://www.ciu.edu	option	option		Iowa
+http://www.ciu.edu	option	option		Kansas
+http://www.ciu.edu	option	option		Kentucky
+http://www.ciu.edu	option	option		Louisiana
+http://www.ciu.edu	option	option		Maine
+http://www.ciu.edu	option	option		Maryland
+http://www.ciu.edu	option	option		Massachusetts
+http://www.ciu.edu	option	option		Michigan
+http://www.ciu.edu	option	option		Minnesota
+http://www.ciu.edu	option	option		Mississippi
+http://www.ciu.edu	option	option		Missouri
+http://www.ciu.edu	option	option		Montana
+http://www.ciu.edu	option	option		Nebraska
+http://www.ciu.edu	option	option		Nevada
+http://www.ciu.edu	option	option		New Hampshire
+http://www.ciu.edu	option	option		New Jersey
+http://www.ciu.edu	option	option		New Mexico
+http://www.ciu.edu	option	option		New York
+http://www.ciu.edu	option	option		North Carolina
+http://www.ciu.edu	option	option		North Dakota
+http://www.ciu.edu	option	option		Ohio
+http://www.ciu.edu	option	option		Oklahoma
+http://www.ciu.edu	option	option		Oregon
+http://www.ciu.edu	option	option		Pennsylvania
+http://www.ciu.edu	option	option		Rhode Island
+http://www.ciu.edu	option	option		South Carolina
+http://www.ciu.edu	option	option		South Dakota
+http://www.ciu.edu	option	option		Tennessee
+http://www.ciu.edu	option	option		Texas
+http://www.ciu.edu	option	option		Utah
+http://www.ciu.edu	option	option		Vermont
+http://www.ciu.edu	option	option		Virginia
+http://www.ciu.edu	option	option		Washington
+http://www.ciu.edu	option	option		West Virginia
+http://www.ciu.edu	option	option		Wisconsin
+http://www.ciu.edu	option	option		Wyoming
+http://www.ciu.edu	option	option		Virgin Island
+http://www.ciu.edu	label			Zip/Postal Code 
+http://www.ciu.edu	label			Comments 
+http://www.ciu.edu	span			Apply Now
+http://www.ciu.edu	span			Visit Campus
+http://www.ciu.edu	span			Find Your Program
+http://www.ciu.edu	h2			You are here
+http://www.ciu.edu	h2			New Online Master in Organizational Leadership 
+http://www.ciu.edu	p		a	Take your leadership skills to the next level with CIU's Master in Organizational Leadership. Complete your degree 100% online and for just $12,000. Classes begin January 13, 2020. 
+http://www.ciu.edu	a			Learn more
+http://www.ciu.edu	a			Request information
+http://www.ciu.edu	a			apply online
+http://www.ciu.edu	p			 now.
+http://www.ciu.edu	h2			       What's Happening @ CIU    
+http://www.ciu.edu	span	img		Scholarship Event
+http://www.ciu.edu	span	img		Personal Visit
+http://www.ciu.edu	span	img		Kings Kaleidoscope Concert
+http://www.ciu.edu	h2			       In the News    
+http://www.ciu.edu	a			CIU professor tackles “Urban Legends of the Old Testament”
+http://www.ciu.edu	a			Connection with enrollment counselor leads to Bibles for remote tribe
+http://www.ciu.edu	a			CIU alumnus makes his music “a matter of faith”
+http://www.ciu.edu	a			     More News  
+http://www.ciu.edu	a			Contact
+http://www.ciu.edu	a			Maps & Directions
+http://www.ciu.edu	a			Privacy & Policies
+http://www.ciu.edu	a			Campus Security
+http://www.ciu.edu	a			A-Z Index
+http://www.ciu.edu	a			Employment
+http://www.ciu.edu	a			Consumer Information
+http://www.ciu.edu	a			Report Website Problems
+http://www.ciu.edu	p		br	7435 Monticello Road
+http://www.ciu.edu	p		br	      Columbia, SC 29203
+http://www.ciu.edu	a			(800) 777-2227
+http://www.ciu.edu	div			© 2020 Columbia International University
+http://www.ciu.edu/apply	a			Jump to navigation
+http://www.ciu.edu/apply	a			Apply Now
+http://www.ciu.edu/apply	a			My CIU
+http://www.ciu.edu/apply	h2			Utility Menu
+http://www.ciu.edu/apply	a			About CIU
+http://www.ciu.edu/apply	a			Academics
+http://www.ciu.edu/apply	a			Advancement
+http://www.ciu.edu/apply	a			Alumni
+http://www.ciu.edu/apply	a			Athletics
+http://www.ciu.edu/apply	a			Calendar
+http://www.ciu.edu/apply	a			Financial Aid
+http://www.ciu.edu/apply	a			Make a Gift
+http://www.ciu.edu/apply	button		i	Menu 
+http://www.ciu.edu/apply	button			 Close
+http://www.ciu.edu/apply	h2			Search form
+http://www.ciu.edu/apply	label			Search 
+http://www.ciu.edu/apply	h2			StudentBridge Analytics
+http://www.ciu.edu/apply	a			Undergraduate
+http://www.ciu.edu/apply	a			Visit Campus
+http://www.ciu.edu/apply	a			Admissions
+http://www.ciu.edu/apply	a			Dual Enrollment
+http://www.ciu.edu/apply	a			Scholarships & Grants
+http://www.ciu.edu/apply	a			Tuition & Fees
+http://www.ciu.edu/apply	a			Campus Life
+http://www.ciu.edu/apply	a			Admitted Students
+http://www.ciu.edu/apply	a			Graduate
+http://www.ciu.edu/apply	a			Degrees Offered
+http://www.ciu.edu/apply	a			Tuition and Fees
+http://www.ciu.edu/apply	a			Online
+http://www.ciu.edu/apply	a			Admission Requirements
+http://www.ciu.edu/apply	a			FAQs
+http://www.ciu.edu/apply	a			Seminary
+http://www.ciu.edu/apply	a			Seminary Tuition and Fees
+http://www.ciu.edu/apply	h2	ul		Utility Menu
+http://www.ciu.edu/apply	h2			You are here
+http://www.ciu.edu/apply	li	li		Apply
+http://www.ciu.edu/apply	h1			Apply
+http://www.ciu.edu/apply	p			Your first step to becoming a CIU student is to apply for admission.
+http://www.ciu.edu/apply	a			Undergraduate & Dual Enrollment
+http://www.ciu.edu/apply	a			Apply
+http://www.ciu.edu/apply	a			Graduate & Seminary
+http://www.ciu.edu/apply	a			Contact
+http://www.ciu.edu/apply	a			Maps & Directions
+http://www.ciu.edu/apply	a			Privacy & Policies
+http://www.ciu.edu/apply	a			Campus Security
+http://www.ciu.edu/apply	a			A-Z Index
+http://www.ciu.edu/apply	a			Employment
+http://www.ciu.edu/apply	a			Consumer Information
+http://www.ciu.edu/apply	a			Report Website Problems
+http://www.ciu.edu/apply	p		br	7435 Monticello Road
+http://www.ciu.edu/apply	p		br	      Columbia, SC 29203
+http://www.ciu.edu/apply	a			(800) 777-2227
+http://www.ciu.edu/apply	div			© 2020 Columbia International University
+http://www.ciu.edu/admissions	a			Jump to navigation
+http://www.ciu.edu/admissions	a			Apply Now
+http://www.ciu.edu/admissions	a			My CIU
+http://www.ciu.edu/admissions	h2			Utility Menu
+http://www.ciu.edu/admissions	a			About CIU
+http://www.ciu.edu/admissions	a			Academics
+http://www.ciu.edu/admissions	a			Advancement
+http://www.ciu.edu/admissions	a			Alumni
+http://www.ciu.edu/admissions	a			Athletics
+http://www.ciu.edu/admissions	a			Calendar
+http://www.ciu.edu/admissions	a			Financial Aid
+http://www.ciu.edu/admissions	a			Make a Gift
+http://www.ciu.edu/admissions	button		i	Menu 
+http://www.ciu.edu/admissions	button			 Close
+http://www.ciu.edu/admissions	h2			Search form
+http://www.ciu.edu/admissions	label			Search 
+http://www.ciu.edu/admissions	h2			StudentBridge Analytics
+http://www.ciu.edu/admissions	a			Undergraduate
+http://www.ciu.edu/admissions	a			Visit Campus
+http://www.ciu.edu/admissions	a			Admissions
+http://www.ciu.edu/admissions	a			Dual Enrollment
+http://www.ciu.edu/admissions	a			Scholarships & Grants
+http://www.ciu.edu/admissions	a			Tuition & Fees
+http://www.ciu.edu/admissions	a			Campus Life
+http://www.ciu.edu/admissions	a			Admitted Students
+http://www.ciu.edu/admissions	a			Graduate
+http://www.ciu.edu/admissions	a			Degrees Offered
+http://www.ciu.edu/admissions	a			Tuition and Fees
+http://www.ciu.edu/admissions	a			Online
+http://www.ciu.edu/admissions	a			Admission Requirements
+http://www.ciu.edu/admissions	a			FAQs
+http://www.ciu.edu/admissions	a			Seminary
+http://www.ciu.edu/admissions	a			Seminary Tuition and Fees
+http://www.ciu.edu/admissions	h2	ul		Utility Menu
+http://www.ciu.edu/admissions	h2			You are here
+http://www.ciu.edu/admissions	li	li		Admissions
+http://www.ciu.edu/admissions	button		i	Additional Navigation 
+http://www.ciu.edu/admissions	a			Prospective Undergraduate Students
+http://www.ciu.edu/admissions	a			Transfer Students
+http://www.ciu.edu/admissions	a			International Students
+http://www.ciu.edu/admissions	a			Guidance Counselors & College Advisors
+http://www.ciu.edu/admissions	h1			Admissions
+http://www.ciu.edu/admissions	p			The admissions team is looking forward to learning about you, your achievements and your walk with God. Although grades and test scores are important, we look beyond numbers and statistics. We guarantee that we will be ready to assist you and will give your application sincere prayerful consideration.
+http://www.ciu.edu/admissions	p	p		While the application process may seem challenging, everything you need to get started is right here. Begin your process by selecting what best describes you below.
+http://www.ciu.edu/admissions	a			Online Only
+http://www.ciu.edu/admissions	a			International
+http://www.ciu.edu/admissions	a			Contact
+http://www.ciu.edu/admissions	a			Maps & Directions
+http://www.ciu.edu/admissions	a			Privacy & Policies
+http://www.ciu.edu/admissions	a			Campus Security
+http://www.ciu.edu/admissions	a			A-Z Index
+http://www.ciu.edu/admissions	a			Employment
+http://www.ciu.edu/admissions	a			Consumer Information
+http://www.ciu.edu/admissions	a			Report Website Problems
+http://www.ciu.edu/admissions	p		br	7435 Monticello Road
+http://www.ciu.edu/admissions	p		br	      Columbia, SC 29203
+http://www.ciu.edu/admissions	a			(800) 777-2227
+http://www.ciu.edu/admissions	div			© 2020 Columbia International University
+http://www.ciu.edu/graduate-admissions-application	a			Jump to navigation
+http://www.ciu.edu/graduate-admissions-application	a			Apply Now
+http://www.ciu.edu/graduate-admissions-application	a			My CIU
+http://www.ciu.edu/graduate-admissions-application	h2			Utility Menu
+http://www.ciu.edu/graduate-admissions-application	a			About CIU
+http://www.ciu.edu/graduate-admissions-application	a			Academics
+http://www.ciu.edu/graduate-admissions-application	a			Advancement
+http://www.ciu.edu/graduate-admissions-application	a			Alumni
+http://www.ciu.edu/graduate-admissions-application	a			Athletics
+http://www.ciu.edu/graduate-admissions-application	a			Calendar
+http://www.ciu.edu/graduate-admissions-application	a			Financial Aid
+http://www.ciu.edu/graduate-admissions-application	a			Make a Gift
+http://www.ciu.edu/graduate-admissions-application	button		i	Menu 
+http://www.ciu.edu/graduate-admissions-application	button			 Close
+http://www.ciu.edu/graduate-admissions-application	h2			Search form
+http://www.ciu.edu/graduate-admissions-application	label			Search 
+http://www.ciu.edu/graduate-admissions-application	h2			StudentBridge Analytics
+http://www.ciu.edu/graduate-admissions-application	a			Undergraduate
+http://www.ciu.edu/graduate-admissions-application	a			Visit Campus
+http://www.ciu.edu/graduate-admissions-application	a			Admissions
+http://www.ciu.edu/graduate-admissions-application	a			Dual Enrollment
+http://www.ciu.edu/graduate-admissions-application	a			Scholarships & Grants
+http://www.ciu.edu/graduate-admissions-application	a			Tuition & Fees
+http://www.ciu.edu/graduate-admissions-application	a			Campus Life
+http://www.ciu.edu/graduate-admissions-application	a			Admitted Students
+http://www.ciu.edu/graduate-admissions-application	a			Graduate
+http://www.ciu.edu/graduate-admissions-application	a			Degrees Offered
+http://www.ciu.edu/graduate-admissions-application	a			Tuition and Fees
+http://www.ciu.edu/graduate-admissions-application	a			Online
+http://www.ciu.edu/graduate-admissions-application	a			Admission Requirements
+http://www.ciu.edu/graduate-admissions-application	a			FAQs
+http://www.ciu.edu/graduate-admissions-application	a			Seminary
+http://www.ciu.edu/graduate-admissions-application	a			Seminary Tuition and Fees
+http://www.ciu.edu/graduate-admissions-application	h2	ul		Utility Menu
+http://www.ciu.edu/graduate-admissions-application	h2			You are here
+http://www.ciu.edu/graduate-admissions-application	li	li		Graduate Application
+http://www.ciu.edu/graduate-admissions-application	button		i	Additional Navigation 
+http://www.ciu.edu/graduate-admissions-application	h1			Graduate Application
+http://www.ciu.edu/graduate-admissions-application	a			Online Form - Grad Formstack App_2017
+http://www.ciu.edu/graduate-admissions-application	a			Contact
+http://www.ciu.edu/graduate-admissions-application	a			Maps & Directions
+http://www.ciu.edu/graduate-admissions-application	a			Privacy & Policies
+http://www.ciu.edu/graduate-admissions-application	a			Campus Security
+http://www.ciu.edu/graduate-admissions-application	a			A-Z Index
+http://www.ciu.edu/graduate-admissions-application	a			Employment
+http://www.ciu.edu/graduate-admissions-application	a			Consumer Information
+http://www.ciu.edu/graduate-admissions-application	a			Report Website Problems
+http://www.ciu.edu/graduate-admissions-application	p		br	7435 Monticello Road
+http://www.ciu.edu/graduate-admissions-application	p		br	      Columbia, SC 29203
+http://www.ciu.edu/graduate-admissions-application	a			(800) 777-2227
+http://www.ciu.edu/graduate-admissions-application	div			© 2020 Columbia International University
+http://www.ciu.edu/undergraduate-admissions-application	a			Jump to navigation
+http://www.ciu.edu/undergraduate-admissions-application	a			Apply Now
+http://www.ciu.edu/undergraduate-admissions-application	a			My CIU
+http://www.ciu.edu/undergraduate-admissions-application	h2			Utility Menu
+http://www.ciu.edu/undergraduate-admissions-application	a			About CIU
+http://www.ciu.edu/undergraduate-admissions-application	a			Academics
+http://www.ciu.edu/undergraduate-admissions-application	a			Advancement
+http://www.ciu.edu/undergraduate-admissions-application	a			Alumni
+http://www.ciu.edu/undergraduate-admissions-application	a			Athletics
+http://www.ciu.edu/undergraduate-admissions-application	a			Calendar
+http://www.ciu.edu/undergraduate-admissions-application	a			Financial Aid
+http://www.ciu.edu/undergraduate-admissions-application	a			Make a Gift
+http://www.ciu.edu/undergraduate-admissions-application	button		i	Menu 
+http://www.ciu.edu/undergraduate-admissions-application	button			 Close
+http://www.ciu.edu/undergraduate-admissions-application	h2			Search form
+http://www.ciu.edu/undergraduate-admissions-application	label			Search 
+http://www.ciu.edu/undergraduate-admissions-application	h2			StudentBridge Analytics
+http://www.ciu.edu/undergraduate-admissions-application	a			Undergraduate
+http://www.ciu.edu/undergraduate-admissions-application	a			Visit Campus
+http://www.ciu.edu/undergraduate-admissions-application	a			Admissions
+http://www.ciu.edu/undergraduate-admissions-application	a			Dual Enrollment
+http://www.ciu.edu/undergraduate-admissions-application	a			Scholarships & Grants
+http://www.ciu.edu/undergraduate-admissions-application	a			Tuition & Fees
+http://www.ciu.edu/undergraduate-admissions-application	a			Campus Life
+http://www.ciu.edu/undergraduate-admissions-application	a			Admitted Students
+http://www.ciu.edu/undergraduate-admissions-application	a			Graduate
+http://www.ciu.edu/undergraduate-admissions-application	a			Degrees Offered
+http://www.ciu.edu/undergraduate-admissions-application	a			Tuition and Fees
+http://www.ciu.edu/undergraduate-admissions-application	a			Online
+http://www.ciu.edu/undergraduate-admissions-application	a			Admission Requirements
+http://www.ciu.edu/undergraduate-admissions-application	a			FAQs
+http://www.ciu.edu/undergraduate-admissions-application	a			Seminary
+http://www.ciu.edu/undergraduate-admissions-application	a			Seminary Tuition and Fees
+http://www.ciu.edu/undergraduate-admissions-application	h2	ul		Utility Menu
+http://www.ciu.edu/undergraduate-admissions-application	h2			You are here
+http://www.ciu.edu/undergraduate-admissions-application	li	li		Undergraduate Application
+http://www.ciu.edu/undergraduate-admissions-application	button		i	Additional Navigation 
+http://www.ciu.edu/undergraduate-admissions-application	h1			Undergraduate Application
+http://www.ciu.edu/undergraduate-admissions-application	a			Online Form - UG Formstack App_2017
+http://www.ciu.edu/undergraduate-admissions-application	a			Contact
+http://www.ciu.edu/undergraduate-admissions-application	a			Maps & Directions
+http://www.ciu.edu/undergraduate-admissions-application	a			Privacy & Policies
+http://www.ciu.edu/undergraduate-admissions-application	a			Campus Security
+http://www.ciu.edu/undergraduate-admissions-application	a			A-Z Index
+http://www.ciu.edu/undergraduate-admissions-application	a			Employment
+http://www.ciu.edu/undergraduate-admissions-application	a			Consumer Information
+http://www.ciu.edu/undergraduate-admissions-application	a			Report Website Problems
+http://www.ciu.edu/undergraduate-admissions-application	p		br	7435 Monticello Road
+http://www.ciu.edu/undergraduate-admissions-application	p		br	      Columbia, SC 29203
+http://www.ciu.edu/undergraduate-admissions-application	a			(800) 777-2227
+http://www.ciu.edu/undergraduate-admissions-application	div			© 2020 Columbia International University
